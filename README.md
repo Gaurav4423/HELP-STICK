@@ -1,4 +1,4 @@
-# HELP-STICK
+# SAFE-STEP
 An IOT based device for Early Fall Prediction of Senior Citizens. 
 
 
