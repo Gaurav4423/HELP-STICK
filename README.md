@@ -48,13 +48,13 @@ The project encompasses the following components:
 
 ### Arduino Uno and MPU
 
-![Arduino Circuit](./Circuits/Arduino_MPU6050.png)
+![Arduino Circuit](./Stick_1/Circuits/Arduino_MPU6050.png)
 
 To implement the circuit using Arduino Uno and MPU, follow the schematic provided.
 
 ### ESP8266 and MPU6050
 
-![Arduino Circuit](./Circuits/Esp.png)
+![Arduino Circuit](./Stick_1/Circuits/Esp.png)
 
 For wireless data collection, use the ESP8266 module along with the MPU6050 sensor. Build the circuit according to the given diagram.
 
